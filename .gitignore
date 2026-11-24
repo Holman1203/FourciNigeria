@@ -1,0 +1,7 @@
+﻿# HTTrack mirror artefacts (may contain cookies / session data)
+cookies.txt
+hts-cache/
+hts-log.txt
+# local tooling
+.claude/
+node_modules/
